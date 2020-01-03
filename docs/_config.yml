@@ -57,6 +57,6 @@ defaults:
 
 sidebars: [home_sidebar]
 permalink: pretty
-baseurl: /
+baseurl: /fastai_part2_lessons/
 #theme: jekyll-theme-cayman
 
